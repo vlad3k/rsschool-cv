@@ -27,7 +27,7 @@ const compose = (...funcs) => comp => {
 
 ## Experience
  **1Rank** - 1 year
-* [Web site for building company](http://цветыбашкирии.рф/)
+* [Цветы Башкирии](http://цветыбашкирии.рф/)
 * [МФЦС](http://mfcs-ufa.ru/)
 
 **КОРУС Консалтинг СНГ** - now
