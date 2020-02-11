@@ -24,3 +24,11 @@ const compose = (...funcs) => comp => {
 	return funcs.reduceRight((wrapped, f) => f(wrapped), comp);
 };
 ```
+
+## Experience
+ **1Rank** - 1 year
+* [Web site for building company](http://цветыбашкирии.рф/)
+* [МФЦС](http://mfcs-ufa.ru/)
+
+**КОРУС Консалтинг СНГ** - now
+* [SberTravel](https://travel.esphere.ru/)
