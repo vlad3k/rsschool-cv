@@ -36,3 +36,12 @@ const compose = (...funcs) => comp => {
 ## Education
 * [HTML Academy courses and two intensives](https://htmlacademy.ru/profile/vlad3k)
 * [Hexlet frontend courses](https://ru.hexlet.io/u/vlad3k)
+
+## English
+
+I understand simple speech and tech documentation.
+
+* Puzzle english - 2 month
+* School
+* Documentations
+* Games and YouTube videos
