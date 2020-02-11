@@ -32,3 +32,7 @@ const compose = (...funcs) => comp => {
 
 **КОРУС Консалтинг СНГ** - now
 * [SberTravel](https://travel.esphere.ru/)
+
+## Education
+* [HTML Academy courses and two intensives](https://htmlacademy.ru/profile/vlad3k)
+* [Hexlet frontend courses](https://ru.hexlet.io/u/vlad3k)
