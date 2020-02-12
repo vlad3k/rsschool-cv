@@ -2,7 +2,7 @@
 
 ###  Contacts
 
-**e-mail**: vladislav.poezzhaev@gmail.com
+**e-mail**: [vladislav.poezzhaev@gmail.com](vladislav.poezzhaev@gmail.com)
 
 **telegram**: [@vlad3k](https://t.me/vlad3k)
 
